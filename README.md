@@ -9,4 +9,4 @@ To allow anyone to double check, `tabula-extraction` (`zip` and folder) both con
 ## Contributors
 
 - [Paul Goldsmith-Pinkham](https://paulgp.github.io)
-- [Olivier Simard-Casanova](https://simardcasanova.net), with the help of [Tabula](https://tabula.technology)
+- [Olivier Simard-Casanova](https://simardcasanova.net), with the help of [Tabula](https://tabula.technology) and [TextMate](https://macromates.com)
