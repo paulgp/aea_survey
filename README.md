@@ -2,6 +2,8 @@
 
 This repository contains the extracted data of the AEA climate survey initially released on March 18, 2019. The data were on PDF tables, they are now in CSV format (with commas instead of pipes, sorry Paul!).
 
+Everything is in the `data` folder.
+
 Tables are numbered according to the AEA's report (see `report.pdf`). Please also refer to the report for the tables' notices. A letter after the table number denotes a table that belongs to the appendices.
 
 To allow anyone to double check, `tabula-extraction` (both the `zip` file and the folder) contains the raw CSV files extracted by Tabula from the PDF. I (Olivier) corrected them by hand.
