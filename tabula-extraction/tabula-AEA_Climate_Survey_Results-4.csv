@@ -1,4 +1,8 @@
-Have you personally experienced discrimination or unfair treatment with regard to:,All,Male,Female,White,Non-White,No disability,With disability,Heterosexual,Other sexual orientation
+"",,,,,Non-,No,With,Hetero-,Other sexual
+Sample:,All,Male,Female,White,,,,,
+"",,,,,White,disability,disability,sexual,orientation
+Have you personally experienced discrimination or unfair treatment with,,,,,,,,,
+regard to:,,,,,,,,,
 Promotion decisions,0.16,0.11,0.27,0.14,0.22,0.15,0.21,0.16,0.18
 Compensation,0.19,0.11,0.37,0.18,0.26,0.19,0.22,0.19,0.20
 Teaching assignments,0.15,0.09,0.28,0.13,0.20,0.14,0.19,0.15,0.14

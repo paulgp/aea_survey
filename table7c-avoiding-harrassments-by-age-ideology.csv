@@ -1,18 +1,14 @@
-"",Age,,Economically:,Socially:
-Sample:,Less than,44 or,,
-"",44,more,conservative  liberal,conservative  liberal
-"Have you ever done any of the following to avoid possible harassment,",,,,
-"discrimination, or unfair or disrespectful treatment:",,,,
-Not applied for or accepted admission at a particular grad school,0.09,0.03,0.06 0.07,0.07 0.06
-Paused or ceased enrollment at a particular grad school,0.03,0.01,0.02 0.02,0.03 0.02
-Not applied for or taken a particular employment position,0.18,0.12,0.15 0.16,0.16 0.15
-Not applied for or taken a promotion at your place of employment,0.06,0.08,0.07 0.07,0.09 0.06
-Left a particular employment position,0.10,0.10,0.10 0.10,0.12 0.09
-"Not presented your question, idea, or view at your school or place of work",0.36,0.25,0.31 0.31,0.32 0.30
-Not participated in a conference,0.14,0.13,0.13 0.14,0.16 0.13
-Not spoken at a conference or during a seminar presentation,0.32,0.21,0.25 0.29,0.24 0.27
-Not made a professional visit to a particular place,0.10,0.10,0.10 0.11,0.12 0.10
-"Not attended social events after class, at work, or at conferences",0.28,0.22,0.24 0.26,0.24 0.25
-"Changed the topic, content, or method of a class you teach",0.15,0.13,0.14 0.13,0.16 0.13
-"Changed the content, method, or conclusions of a research paper",0.10,0.06,0.08 0.09,0.10 0.08
-Not started or continued research in a particular field,0.20,0.13,0.17 0.17,0.18 0.17
+"Have you ever done any of the following to avoid possible harassment, discrimination, or unfair or disrespectful treatment:",Age: Less than 44,Age: 44 or more,Economically: conservative,Economically: liberal,Socially: conservative,Socially:liberal
+Not applied for or accepted admission at a particular grad school,0.09,0.03,0.06,0.07,0.07,0.06
+Paused or ceased enrollment at a particular grad school,0.03,0.01,0.02,0.02,0.03,0.02
+Not applied for or taken a particular employment position,0.18,0.12,0.15,0.16,0.16,0.15
+Not applied for or taken a promotion at your place of employment,0.06,0.08,0.07,0.07,0.09,0.06
+Left a particular employment position,0.10,0.10,0.10,0.10,0.12,0.09
+"Not presented your question, idea, or view at your school or place of work",0.36,0.25,0.31,0.31,0.32,0.30
+Not participated in a conference,0.14,0.13,0.13,0.14,0.16,0.13
+Not spoken at a conference or during a seminar presentation,0.32,0.21,0.25,0.29,0.24,0.27
+Not made a professional visit to a particular place,0.10,0.10,0.10,0.11,0.12,0.10
+"Not attended social events after class, at work, or at conferences",0.28,0.22,0.24,0.26,0.24,0.25
+"Changed the topic, content, or method of a class you teach",0.15,0.13,0.14,0.13,0.16,0.13
+"Changed the content, method, or conclusions of a research paper",0.10,0.06,0.08,0.09,0.10,0.08
+Not started or continued research in a particular field,0.20,0.13,0.17,0.17,0.18,0.17

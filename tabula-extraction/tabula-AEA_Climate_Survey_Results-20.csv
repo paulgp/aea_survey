@@ -1,4 +1,6 @@
-Have you personally experienced discrimination or unfair treatment with regard to:,Non-Black,Black,Non-Asian,Asian,Non-Latino,Latino
+Sample:,Non-Black,Black,Non-Asian,Asian,Non-Latino,Latino
+Have you personally experienced discrimination or,,,,,,
+unfair treatment with regard to:,,,,,,
 Promotion decisions,0.18,0.32,0.17,0.26,0.18,0.23
 Compensation,0.16,0.34,0.15,0.25,0.16,0.19
 Professional development opportunities,0.16,0.23,0.15,0.26,0.16,0.22

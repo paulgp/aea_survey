@@ -1,13 +1,23 @@
-,All,Male,Female,White,Non-White,No disability,With disability,Heterosexual,Other sexual orientation
-It is not important for the field of economics to be inclusive towards people with different backgrounds.,0.07,0.07,0.05,0.06,0.09,0.07,0.07,0.06,0.06
+"",,,,,,,,,Other
+"",,,,,Non-,No,With,Hetero-,
+Sample:,All,Male,Female,White,,,,,sexual
+"",,,,,White,disability,disability,sexual,
+"",,,,,,,,,orientation
+It is not important for the field of economics to be inclusive towards,,,,,,,,,
+"",0.07,0.07,0.05,0.06,0.09,0.07,0.07,0.06,0.06
+people with different backgrounds.,,,,,,,,,
 Discrimination is rare within the field of economics today.,0.12,0.16,0.04,0.13,0.10,0.12,0.12,0.12,0.10
 Economics would be a more vibrant discipline if it were more diverse.,0.66,0.59,0.82,0.65,0.74,0.66,0.67,0.66,0.79
-The AEA should not expend much effort to improve diversity within its ranks.,0.08,0.10,0.03,0.08,0.07,0.08,0.11,0.08,0.05
+The AEA should not expend much effort to improve diversity within its,,,,,,,,,
+"",0.08,0.10,0.03,0.08,0.07,0.08,0.11,0.08,0.05
+ranks.,,,,,,,,,
 People of my race/ethnicity are respected within the field,0.72,0.73,0.67,0.82,0.30,0.72,0.70,0.72,0.65
 People who are not White are respected within the field,0.45,0.52,0.28,0.49,0.27,0.45,0.43,0.45,0.32
 Men are respected within the field,0.91,0.88,0.96,0.94,0.79,0.91,0.89,0.91,0.94
 Women are respected within the field,0.41,0.52,0.16,0.43,0.30,0.41,0.40,0.41,0.29
-Transgender and gender non-conforming people are respected within the field.,0.33,0.39,0.16,0.35,0.21,0.33,0.29,0.33,0.13
+Transgender and gender non-conforming people are respected within the,,,,,,,,,
+"",0.33,0.39,0.16,0.35,0.21,0.33,0.29,0.33,0.13
+field,,,,,,,,,
 People of my sexual orientation are respected within the field,0.89,0.89,0.88,0.91,0.75,0.89,0.86,0.91,0.25
 People who are not heterosexual are respected within the field,0.58,0.63,0.42,0.61,0.40,0.58,0.54,0.59,0.25
 People of my disability status are respected within the field,0.53,0.58,0.36,0.57,0.41,0.65,0.34,0.54,0.33

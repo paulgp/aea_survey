@@ -1,4 +1,8 @@
-"Have you ever done any of the following to avoid possible harassment, discrimination, or unfair or disrespectful treatment:",All,Male,Female,White,Non-White,No disability,With disability,Heterosexual,Other sexual orientation
+"",,,,,Non-,No,With,Hetero-,Other sexual
+Sample:,All,Male,Female,White,,,,,
+"",,,,,White,disability,disability,sexual,orientation
+"Have you ever done any of the following to avoid possible harassment, discrimination, or",,,,,,,,,
+unfair or disrespectful treatment:,,,,,,,,,
 Not applied for or accepted admission at a particular grad school,0.06,0.05,0.10,0.05,0.12,0.06,0.13,0.06,0.14
 Paused or ceased enrollment at a particular grad school,0.02,0.02,0.04,0.01,0.06,0.02,0.04,0.02,0.03
 Not applied for or taken a particular employment position,0.15,0.12,0.23,0.13,0.23,0.14,0.22,0.14,0.32

@@ -1,0 +1,17 @@
+"",Married?,Dependents?
+Sample:,,
+"",No Yes,No Yes
+Have you personally experienced discrimination or unfair treatment with regard,,
+to:,,
+Promotion decisions,0.28 0.26,0.22 0.30
+Compensation,0.35 0.37,0.33 0.40
+Teaching assignments,0.33 0.27,0.27 0.28
+Service obligations,0.42 0.43,0.40 0.45
+Access to time and funding to attend conferences and seminars,0.20 0.14,0.14 0.16
+Access to graduate student researchers,0.17 0.14,0.13 0.16
+Course evaluations,0.47 0.46,0.45 0.48
+Publishing decisions,0.31 0.31,0.29 0.33
+Funding decisions,0.25 0.18,0.17 0.21
+Sabbatical time,0.12 0.08,0.07 0.09
+Access to potential coauthors,0.26 0.20,0.21 0.22
+"Invitations to participate in research conferences, associations and networks",0.31 0.32,0.30 0.34

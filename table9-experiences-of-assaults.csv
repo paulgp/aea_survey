@@ -1,46 +1,51 @@
-"",,Attempted,Other physicalAssaults
-"",,Assaults,touching
+"",Attempted Assaults,Assaults,Other physical touching
+,,,,
 Where?,,,
-At my university,,61,29 175
-At another university,,32,12 48
-At my non-academic workplace,,12,5 25
-"At an AEA conference or meeting, including travel to or from",,6,2 15
-At another professional conference or meeting,,18,9 69
-"During a conference or meeting, but not at the conference or meeting itself",,23,9 45
-Online (via email or other electronic media),,0,0 0
-Somwhere else,,23,17 44
+At my university,61,29,175
+At another university,32,12,48
+At my non-academic workplace,12,5,25
+"At an AEA conference or meeting, including travel to or from",6,2,15
+At another professional conference or meeting,18,9,69
+"During a conference or meeting, but not at the conference or meeting itself",23,9,45
+Online (via email or other electronic media),0,0,0
+Somwhere else,23,17,44
+,,,,
 Who?,,,
-My professor/boss/someone with authority,,41,20 114
-A co-worker at my institution or place of employment,,41,12 81
-Another economist or student that I know,,81,43 177
-Another economist or student that I do not know,,7,2 34
-Someone else,,3,2 9
-Did not know the identity or status of this person,,3,3 6
+My professor/boss/someone with authority,41,20,114
+A co-worker at my institution or place of employment,41,12,81
+Another economist or student that I know,81,43,177
+Another economist or student that I do not know,7,2,34
+Someone else,3,2,9
+Did not know the identity or status of this person,3,3,6
+,,,,
 Told anyone?,,,
-Yes,,56,27 107
-No,,121,56 315
+Yes,56,27,107
+No,121,56,315
+,,,,
 Who did you tell first?,,,
-A colleague,,24,9 43
-A friend of family member not associated with the field,,20,11 46
-"University administration, including University HR",,7,2 11
-AEA or conference administration,,0,0 0
-Someone from the conference cener or meeting place where this occurred,,0,0 2
-The police,,1,0 1
-Someone else,,4,5 4
-"If you did not make a report to some authority, why not? - Check all that applies (Yes=1)",,N=117,N=54 N=307
-Didn't know who the right person was,,10,7 29
-Were concerned the situation would not be kept confidential,,37,22 73
-Did not need/want any assistance or any action taken,,51,19 186
-Were concerned the process and/or the outcome would be too difficult,,29,18 69
-Were concerned about retribution from the person who did this and/or others over reporting,,45,22 92
-Did the experience lead to...- Check all that applies (Yes=1),,N=118,N=65 N=223
-File an official charge of complaint with your employer,,8,3 7
-File an official charge with relevant government agency (such as police or nondiscrimination agency),,3,1 6
-"Consider leaving a project, committee, program, or other similar work endeavor",,50,33 99
-Be less productive or effective in your work,,72,43 133
-Consider leaving your position,,42,25 71
-"Take leave, sick time, miss work unexpectedly, or other similar time away from work",,26,20 32
-Consider not attending future AEA meetings or conferences,,17,12 31
-Consider leaving the field of economic research,,24,15 35
-Consider leaving academia entirely,,26,22 42
-Consider taking legal action,,18,9 22
+A colleague,24,9,43
+A friend of family member not associated with the field,20,11,46
+"University administration, including University HR",7,2,11
+AEA or conference administration,0,0,0
+Someone from the conference cener or meeting place where this occurred,0,0,2
+The police,1,0,1
+Someone else,4,5,4
+,,,,
+"If you did not make a report to some authority, why not? - Check all that applies (Yes=1)",N=117,N=54,N=307
+Didn't know who the right person was,10,7,29
+Were concerned the situation would not be kept confidential,37,22,73
+Did not need/want any assistance or any action taken,51,19,186
+Were concerned the process and/or the outcome would be too difficult,29,18,69
+Were concerned about retribution from the person who did this and/or others over reporting,45,22,92
+,,,,
+Did the experience lead to...- Check all that applies (Yes=1),N=118,N=65,N=223
+File an official charge of complaint with your employer,8,3,7
+File an official charge with relevant government agency (such as police or nondiscrimination agency),3,1,6
+"Consider leaving a project, committee, program, or other similar work endeavor",50,33,99
+Be less productive or effective in your work,72,43,133
+Consider leaving your position,42,25,71
+"Take leave, sick time, miss work unexpectedly, or other similar time away from work",26,20,32
+Consider not attending future AEA meetings or conferences,17,12,31
+Consider leaving the field of economic research,24,15,35
+Consider leaving academia entirely,26,22,42
+Consider taking legal action,18,9,22

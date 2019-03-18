@@ -1,4 +1,6 @@
-"Have you ever done any of the following to avoid possible harassment, discrimination, or unfair or disrespectful treatment:",Non-Black,Black,Non-Asian,Asian,Non-Latino,Latino
+Sample:,Non-Black,Black,Non-Asian,Asian,Non-Latino,Latino
+"Have you ever done any of the following to avoid possible harassment,",,,,,,
+"discrimination, or unfair or disrespectful treatment:",,,,,,
 Not applied for or accepted admission at a particular grad school,0.06,0.21,0.06,0.09,0.06,0.09
 Paused or ceased enrollment at a particular grad school,0.02,0.10,0.02,0.04,0.02,0.04
 Not applied for or taken a particular employment position,0.15,0.34,0.14,0.19,0.15,0.19
