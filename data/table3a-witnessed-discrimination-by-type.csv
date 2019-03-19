@@ -1,0 +1,14 @@
+Have you ever witnessed discrimination or unfair treatment based on:,All,Male,Female,White,Non-White,No disability,With disability,Heterosexual,Other sexual orientation
+Racial/ethnic identity,0.23,0.19,0.32,0.22,0.28,0.23,0.29,0.23,0.34
+Sex,0.37,0.34,0.45,0.39,0.31,0.37,0.40,0.37,0.49
+Gender identity,0.08,0.07,0.11,0.08,0.10,0.08,0.10,0.08,0.18
+Sexual orientation,0.09,0.08,0.12,0.09,0.10,0.09,0.12,0.08,0.25
+Disability status,0.06,0.04,0.10,0.05,0.07,0.05,0.14,0.06,0.10
+Marital status / caregiving responsibilities,0.18,0.13,0.31,0.18,0.18,0.18,0.23,0.18,0.22
+Religion,0.09,0.09,0.10,0.09,0.12,0.09,0.12,0.09,0.13
+Political views,0.22,0.22,0.22,0.22,0.22,0.22,0.25,0.22,0.28
+Age,0.17,0.15,0.21,0.17,0.16,0.17,0.17,0.17,0.19
+Citizenship status,0.15,0.13,0.19,0.14,0.20,0.14,0.19,0.15,0.20
+Place of employment,0.19,0.17,0.25,0.19,0.20,0.19,0.22,0.19,0.27
+Research topics,0.23,0.22,0.27,0.24,0.21,0.23,0.28,0.23,0.30
+Other factors,0.09,0.09,0.11,0.09,0.12,0.09,0.13,0.09,0.14

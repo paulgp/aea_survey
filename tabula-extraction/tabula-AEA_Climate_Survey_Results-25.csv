@@ -1,0 +1,39 @@
+"",,,,,Employer is college
+"",Sample:,Married?,,Dependents?,or university?
+"",,No,Yes,No Yes,No Yes
+Have you ever experienced any of the following:,,,,,
+Felt socially excluded at a meeting or event in the field,,0.63,0.66,0.65 0.66,0.62 0.66
+Felt disrespected by your economist colleagues,,0.63,0.62,0.61 0.64,0.57 0.64
+Felt that your work was not taken as seriously as that of your economist colleagues,,0.64,0.70,0.66 0.72,0.62 0.71
+Felt that the subject or methodology of your research was not taken as seriously as that of your economist,,,,,
+"",,0.56,0.61,0.59 0.61,0.54 0.62
+colleagues,,,,,
+"Another economist or economics student displayed, used, or distributed inappropriate sexual or suggestive",,,,,
+"materials; made offensive sexual remarks, either directed at you or overheard, including jokes or sexual",,,,,
+"",,0.44,0.42,0.42 0.43,0.37 0.44
+"stories; made remarks about your appearance, body, or sexual activities that made you uncomfortable; or",,,,,
+made gestures or used body language of a sexual nature which embarrassed or offended you,,,,,
+"Another economist or economics student made unwanted attempts to establish a dating, romantic, or",,,,,
+"",,0.30,0.20,0.23 0.21,0.20 0.23
+sexual relationship with you despite your efforts to discourage it,,,,,
+Another economist or economics student made you feel threatened with some sort of retaliation for not,,,,,
+being romantically or sexually cooperative or implied you’d be treated better if you were sexually,,0.12,0.06,0.08 0.07,0.07 0.07
+cooperative,,,,,
+Another economist or economics student watched or followed you from a distance; repeatedly waited for,,,,,
+"you outside of your workplace, classroom, meeting room when you didn’t want them to; spied on you; made",,,,,
+"unwanted phone calls to you or left you unwanted messages, emails or other electronic transmissions",,0.12,0.09,0.10 0.09,0.08 0.10
+"including via social media, or sent cards, letters, flowers, or presents when they knew you didn’t want them",,,,,
+to,,,,,
+"Another economist or economics student attempted to fondle, kiss, or rub up against the private areas of",,,,,
+"your body; attempted to remove some of your clothes without your consent; attempted to put their penis,",,,,,
+"",,0.06,0.05,0.05 0.06,0.05 0.06
+"fingers, or other objects into your vagina and/or butt without your consent; and/or attempted to have oral",,,,,
+sex with you without your consent,,,,,
+"Another economist or economics student fondled, kissed, or rubbed up against the private areas of your",,,,,
+"body; removed some of your clothes without your consent; put their penis, fingers, or other objects into",,,,,
+"",,0.03,0.02,0.03 0.02,0.02 0.03
+your vagina and/or butt without your consent; and/or attempted to have oral sex with you without your,,,,,
+consent,,,,,
+"Another economist or economics student touched you in a way, other than what was listed above, that",,,,,
+"",,0.14,0.12,0.11 0.13,0.10 0.13
+made you feel uncomfortable,,,,,
