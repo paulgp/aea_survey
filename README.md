@@ -10,6 +10,10 @@ To allow anyone to double check, `tabula-extraction` (both the `zip` file and th
 
 You can find the report on the AEA's website: https://www.aeaweb.org/resources/member-docs/climate-survey-results-mar-18-2019
 
+## Twitter thread
+
+- [Thread here by Paul](https://twitter.com/paulgp/status/1108564238606303232)
+
 ## Contributors
 
 - [Paul Goldsmith-Pinkham](https://paulgp.github.io)
